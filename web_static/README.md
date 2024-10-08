@@ -1,0 +1,1 @@
+## These are the web static files and their according styles
